@@ -6,7 +6,7 @@
 - 🌱 I’m a lifelong learner. I have been learning 
     programming for about 20 years.  I hope to be
     learning programming for the rest of my life. 👴
-- 🤔 I’m looking for help with C and C++
+- 📚 I’m looking for help with C and C++
 - 💬 Ask me about Ansible and Raspberry Pi.  
 - ⚡ Fun facts inside git: I scored an [Arctic Code Vault] badge
     for work I've done in Java and JavaScript.
